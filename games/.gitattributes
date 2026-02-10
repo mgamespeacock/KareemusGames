@@ -1,1 +1,2 @@
 baldi filter=lfs diff=lfs merge=lfs -text
+pokemonblue filter=lfs diff=lfs merge=lfs -text
